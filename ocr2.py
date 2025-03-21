@@ -60,7 +60,7 @@ image_paths = sorted(
 
 # Set your API key.  This *must* be done before calling the function.
 # Replace "YOUR_API_KEY" with your actual API key.
-genai.configure(api_key="AIzaSyArI4YW8bukyj2z-UYpo46iBhkoecvWPWM")
+genai.configure(api_key="YOUR API KEY HERE")
 
 
 #genai.configure(api_key=os.getenv("GEMINI_API_KEY")) 
